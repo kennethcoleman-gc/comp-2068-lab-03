@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bob",
+    "age": 50,
+    "likesBacon": true
+  },
+  {
+    "id": 2,
+    "name": "Jimmy",
+    "age": 16,
+    "likesBacon": true
+  },
+  {
+    "id": 3,
+    "name": "Beth",
+    "age": 32,
+    "likesBacon": true
+  },
+  {
+    "id": 4,
+    "name": "Vegetus",
+    "age": 40,
+    "likesBacon": false
+  }
+]
