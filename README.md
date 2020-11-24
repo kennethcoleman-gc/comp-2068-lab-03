@@ -19,7 +19,7 @@ This lab is an Node/Express App that implements full CRUD operations by read/wri
 |:---:|:---:|:---:|:---:|
 |GET|/people|-|Returns all people|
 |GET|/people/(id)|-|Returns person by integer id number provided in URI|
-|POST|/people|name, age (Integer), likesBacon (Boolean)|Stored and returns person|
+|POST|/people|name, age (Integer), likesBacon (Boolean)|Stores and returns person|
 |POST|/people/update|id (Integer), name, age (Integer), likesBacon (Boolean)|Updates person with provided information, all fields optional except id|
 |POST|/people/destroy|id (Integer)|Deletes person by id #|
 |POST|/people/reset|-|Resets the user list to the initial 4 factory default entries (in case you add Cletus a few too many times)|
